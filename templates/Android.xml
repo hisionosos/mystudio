@@ -1,0 +1,6 @@
+<templateSet group="Android">
+  <template name="syso" value="System.out.println($resId$);" description="create System" toReformat="true" toShortenFQNames="true">
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
